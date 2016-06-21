@@ -1,5 +1,5 @@
 {
-	"name": "ekko-lightbox",
+	"name": "ekko-lightbox-sg",
 	"description": "A lightbox gallery plugin for Bootstrap 3 based on the modal plugin",
 	"version": "4.0.3",
 	"keywords": [
@@ -9,8 +9,8 @@
 		"jquery",
 		"modal"
 	],
-	"homepage": "https://github.com/ashleydw/lightbox",
-	"author": "ashleydw <hello@ashleyd.ws>",
+	"homepage": "https://github.com/seangreen/lightbox",
+	"author": "sean <sean@studio19.at>",
 	"main": "dist/ekko-lightbox.min.js",
 	"style": "dist/ekko-lightbox.css",
 	"less": "ekko-lightbox.less",

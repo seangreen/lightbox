@@ -1,5 +1,5 @@
 {
-    "name": "ekko-lightbox",
+    "name": "ekko-lightbox-sg",
     "version": "4.0.3",
     "main": "./dist/ekko-lightbox.min.js",
     "ignore": [
