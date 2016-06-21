@@ -23,7 +23,8 @@
     },
     "homepage": "https://github.com/seangreen/lightbox",
     "authors": [
-        "ashleydw <hello@ashleyd.ws>"
+        "ashleydw <hello@ashleyd.ws>",
+        "Sean <sean@studio19.at>"
     ],
     "description": "A lightbox gallery plugin for Bootstrap 3 based on the modal plugin",
     "keywords": [
